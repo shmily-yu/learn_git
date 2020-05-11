@@ -57,3 +57,5 @@
 
 # Username for 'https://github.com': 输入的是github上的邮箱账号, 而不是github中设置的username, 这是个巨坑!!!
 # Password for 'https://你的github邮箱@github.com': 输入github的登录密码,点击enter键即可.
+
+# git clone克隆一个本地库：
