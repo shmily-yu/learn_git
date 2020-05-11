@@ -59,3 +59,6 @@
 # Password for 'https://你的github邮箱@github.com': 输入github的登录密码,点击enter键即可.
 
 # git clone克隆一个本地库：
+
+# Ctrl  +ins  复制
+# Shift +ins  粘贴
